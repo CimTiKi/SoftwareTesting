@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Search and filter by price,673,4644,4429,6654,7135,7629,1727,8164,97.474%,9.80492,46.91,1.53
+Test: Search & Filter Flow,673,4775,4560,6962,7239,7991,1763,8676,97.474%,9.78525,46.82,1.53
+TOTAL,1346,4710,4458,6734,7212,7918,1727,8676,97.474%,19.57050,93.64,3.05

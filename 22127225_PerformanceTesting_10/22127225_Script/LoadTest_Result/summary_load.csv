@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Search and filter by price,50,242,184,333,37.64,0.000%,5.00200,23.91,0.78,4895.3
+Test: Search & Filter Flow,50,242,184,334,37.63,0.000%,5.00100,23.91,0.78,4895.3
+TOTAL,100,242,184,334,37.64,0.000%,10.00200,47.82,1.56,4895.3

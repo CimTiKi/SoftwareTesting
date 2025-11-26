@@ -1,0 +1,6 @@
+Keyword,MinPrice,MaxPrice
+hammer,0,150
+pliers,0,50
+screwdriver,0,20
+drill,20,200
+sander,0,200

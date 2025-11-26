@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Search and filter by price,50,242,243,290,297,333,184,333,0.000%,5.00200,23.91,0.78
+Test: Search & Filter Flow,50,242,245,290,297,334,184,334,0.000%,5.00100,23.91,0.78
+TOTAL,100,242,245,290,303,333,184,334,0.000%,10.00200,47.82,1.56
